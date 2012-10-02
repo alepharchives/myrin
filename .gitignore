@@ -1,5 +1,6 @@
 .eunit
 .deps
+.libs
 ebin
 deps
 priv
@@ -19,16 +20,26 @@ c_src/libxml2/config.log
 c_src/libxml2/config.status
 c_src/libxml2/doc/Makefile
 c_src/libxml2/doc/devhelp/Makefile
-c_src/libxml2/doc/examples/Makefile
+c_src/libxml2/doc/examples
 c_src/libxml2/example/Makefile
+c_src/libxml2/example/gjobread
 c_src/libxml2/include/Makefile
 c_src/libxml2/include/libxml/Makefile
 c_src/libxml2/libtool
 c_src/libxml2/libxml-2.0-uninstalled.pc
+c_src/libxml2/libxml2.la
 c_src/libxml2/libxml-2.0.pc
 c_src/libxml2/python/Makefile
+c_src/libxml2/python/libxml2mod.la
 c_src/libxml2/python/tests/Makefile
+c_src/libxml2/runsuite
+c_src/libxml2/runtest
+c_src/libxml2/runxmlconf
+c_src/libxml2/xml2Conf.sh
+c_src/libxml2/xmlcatalog
+c_src/libxml2/xmllint
 c_src/libxml2/stamp-h1
+c_src/libxml2/test*
 c_src/libxml2/xml2-config
 c_src/libxml2/xstc/Makefile
 
