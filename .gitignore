@@ -10,4 +10,5 @@ priv
 *.png
 edoc-info
 stylesheet.css
+autom4te.cache
 

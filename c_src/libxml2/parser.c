@@ -7515,7 +7515,7 @@ xmlParseEntityRef(xmlParserCtxtPtr ctxt) {
     NEXT;
 
     /*
-     * Predefined entities override any extra definition
+     * Predefined entites override any extra definition
      */
     if ((ctxt->options & XML_PARSE_OLDSAX) == 0) {
         ent = xmlGetPredefinedEntity(name);
@@ -7524,7 +7524,7 @@ xmlParseEntityRef(xmlParserCtxtPtr ctxt) {
     }
 
     /*
-     * Increase the number of entity references parsed
+     * Increate the number of entity references parsed
      */
     ctxt->nbentities++;
 

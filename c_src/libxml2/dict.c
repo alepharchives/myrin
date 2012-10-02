@@ -143,7 +143,7 @@ static int xmlDictInitialized = 0;
 /*
  * Internal data for random function, protected by xmlDictMutex
  */
-static unsigned int rand_seed = 0;
+unsigned int rand_seed = 0;
 #endif
 #endif
 
