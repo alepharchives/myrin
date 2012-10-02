@@ -1,4 +1,5 @@
 .eunit
+.deps
 ebin
 deps
 priv
@@ -8,7 +9,26 @@ priv
 *.swp
 *.html
 *.png
+*.lo
 edoc-info
 stylesheet.css
 autom4te.cache
+c_src/libxml2/Makefile
+c_src/libxml2/config.h
+c_src/libxml2/config.log
+c_src/libxml2/config.status
+c_src/libxml2/doc/Makefile
+c_src/libxml2/doc/devhelp/Makefile
+c_src/libxml2/doc/examples/Makefile
+c_src/libxml2/example/Makefile
+c_src/libxml2/include/Makefile
+c_src/libxml2/include/libxml/Makefile
+c_src/libxml2/libtool
+c_src/libxml2/libxml-2.0-uninstalled.pc
+c_src/libxml2/libxml-2.0.pc
+c_src/libxml2/python/Makefile
+c_src/libxml2/python/tests/Makefile
+c_src/libxml2/stamp-h1
+c_src/libxml2/xml2-config
+c_src/libxml2/xstc/Makefile
 
